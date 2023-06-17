@@ -1,0 +1,8 @@
+flask
+requests
+SQLAlchemy==1.4.47
+psycopg2-binary-2.9.6
+python-dotenv
+pydantic-1.10.9
+black-23.3.0
+isort-5.12.0
